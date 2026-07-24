@@ -1,0 +1,6 @@
+{
+  "name": "Trivia Quiz",
+  "description": "A high-quality trivia quiz application with multiple categories, difficulty settings, streaks, coins, leaderboards, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
